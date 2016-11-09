@@ -1,0 +1,31 @@
+{
+  "name": "pubchain",
+  "version": "0.0.0",
+  "description": "Smart deep list of object enumerable properties.",
+  "main": "pubchain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovasystems/pubchain.git"
+  },
+  "keywords": [
+    "smart",
+    "deep",
+    "list",
+    "object",
+    "property",
+    "enumerable",
+    "pubchain"
+  ],
+  "author": "Richeve S. Bebedor <richeve.bebedor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volkovasystems/pubchain/issues"
+  },
+  "homepage": "https://github.com/volkovasystems/pubchain#readme",
+  "dependencies": {
+    "propchain": "0.0.0"
+  }
+}
